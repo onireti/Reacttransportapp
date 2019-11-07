@@ -1,2 +1,0 @@
-# Reacttransportapp
-Created with CodeSandbox
